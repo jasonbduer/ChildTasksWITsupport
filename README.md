@@ -6,7 +6,7 @@ This project generates an [Azure DevOps extension](https://docs.microsoft.com/en
 
 ## Version 3.0 schema change
 
-The schema has been changed to enable multiple template support and multiple work item types. See [Schema sample](src/settings/templateSetupSample.json)
+The schema has been changed to enable multiple All work item types. See [Schema sample](src/settings/templateSetupSample.json)
 
 ## Dependencies
 
