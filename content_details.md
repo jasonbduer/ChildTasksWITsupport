@@ -30,7 +30,7 @@ There are two things to know to be comfortable using this extension.
 
 Go in the extension setup, which is per project. As you can see below, you have a "JSON" file to determine this. The easiest way is to copy a section and dubplate it and then modify it. In the Azure DevOps Json editor, on the header bar, you can click on "Tree" or "Text". Go to the Text mode and you can copy and paste values, to add Child items to the template.
 
-![setup_screen.png](/.attachments/setup_screen-dbd9f079-1a85-41bf-8392-47fa13c33489.png)
+![setup_screen.png](doc/project_setup.png)
 
   
 
